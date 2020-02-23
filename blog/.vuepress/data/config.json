@@ -1,6 +1,6 @@
 {
-  "title": "Casper Theme",
-  "description": "Ghosts default theme for Vuepress",
+  "title": "Automaze",
+  "description": "Let's Automate IT",
   "base": "/",
   "themeConfig": {
     "cover": "/images/cover.jpg",
