@@ -3,8 +3,8 @@
   "description": "Let's Automate IT",
   "base": "/",
   "themeConfig": {
-    "cover": "/images/cover.jpg",
-    "logo": "/images/logo.png",
+    "cover": "",
+    "logo": "/images/logo_transparent.png",
     "nav": [
       {
         "text": "Home",
