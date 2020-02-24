@@ -1,16 +1,14 @@
 ---
-title: I'm nobody's taxi service
-image: 'https://picsum.photos/1920/1080/?random&date=2018-11-15'
-publish: '2018-11-15'
+title: Nutanix NCP Training
+image: https://picsum.photos/1920/1080/?random&date=2018-11-15
+publish: 2020-02-23T23:00:00Z
 tags:
-  - escaped fish
-  - earthliens
-categories:
-  - dexter
+- nutanix
+categories: []
 readingTime: 9 Minutes
 type: post
----
 
+---
 The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant. Sorry, checking all the water in this area; there's an escaped fish.
 
 <!-- more -->
