@@ -1,6 +1,6 @@
 ---
 title: Nutanix NCP Training
-image: https://picsum.photos/1920/1080/?random&date=2018-11-15
+image: "/images/cover.jpg"
 publish: 2020-02-23T23:00:00Z
 tags:
 - nutanix
