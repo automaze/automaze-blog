@@ -4,7 +4,7 @@
   "base": "/",
   "themeConfig": {
     "cover": "/images/welcome.jpg",
-    "logo": "/images/logo_transparent.png",
+    "logo": "",
     "nav": [
       {
         "text": "Home",
