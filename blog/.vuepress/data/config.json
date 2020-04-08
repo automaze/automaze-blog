@@ -3,27 +3,15 @@
   "description": "Let's Automate IT",
   "base": "/",
   "themeConfig": {
-    "cover": "/images/welcome.jpg",
+    "cover": "",
     "logo": "",
     "nav": [
       {
         "text": "Home",
         "link": "/"
-      },
-      {
-        "text": "Posts",
-        "link": "/posts"
-      },
-      {
-        "text": "About",
-        "link": "/about.html"
       }
     ],
     "footer": [
-      {
-        "text": "Latest Posts",
-        "link": "/posts"
-      },
       {
         "text": "Twitter",
         "link": "https://twitter.com/briantimp"
