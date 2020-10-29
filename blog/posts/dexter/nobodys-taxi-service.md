@@ -1,6 +1,6 @@
 ---
 title: Website currently under construction
-image: "/images/cover.jpg"
+image: "/images/pexels-markus-spiske-1089440.jpg"
 publish: 2020-02-23T23:00:00.000+00:00
 tags: []
 categories: []
